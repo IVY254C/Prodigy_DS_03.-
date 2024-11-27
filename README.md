@@ -90,13 +90,7 @@ The **Bank Marketing dataset** includes detailed customer data collected from di
 
 ## Results
 
-- The decision tree classifier achieved an accuracy of **X%** on the test set.
-- Key features influencing predictions include:
-  1. **Feature 1**
-  2. **Feature 2**
-  3. **Feature 3**
-
-*(Replace `X%` and feature names based on your findings.)*
+- The decision tree classifier achieved an accuracy of **88.72%** on the test set.
 
 ---
 
